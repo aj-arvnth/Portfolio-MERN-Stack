@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import { useState } from 'react';
 
 function App() {
-  const [showLoading, setShowLoading] = useState(false);
+  const [showLoading] = useState(false);
   return (
     <BrowserRouter>
     {showLoading ? <Loader /> : null}
