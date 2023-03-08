@@ -1,5 +1,4 @@
 import React from 'react'
-import { vi } from '../../images/vi';
 
 function Footer() {
     return (
