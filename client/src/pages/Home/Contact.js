@@ -4,8 +4,6 @@ import emailjs from '@emailjs/browser';
 import styled from "styled-components";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-// import { vi } from '../../images/vi';
-// import { tv } from '../../images/vi';
 
 
 const Contact = () => {
