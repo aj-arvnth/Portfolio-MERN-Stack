@@ -7,7 +7,6 @@ import Experiences from './Experiences';
 import Contact from './Contact';
 import Footer from './Footer';
 import LeftSider from './LeftSider';
-// import {bgk} from '../../images/github';
 
 
 function Home() {
