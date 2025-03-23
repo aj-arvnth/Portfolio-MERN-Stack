@@ -21,7 +21,7 @@ function Projects() {
                 </div>
 
                 <div className="flex items-center justify-center gap-10 sm:flex-col">
-                    <img src={projects[selectedItemIndex].image} alt="" className="h-40 w-52"></img>
+                    {/* <img src={projects[selectedItemIndex].image} alt="" className="h-40 w-52"></img> */}
                     <div className='flex flex-col gap-5'>
                         <h1 className='text-[#F97316] text-2xl'>{projects[selectedItemIndex].title}</h1>
                         <p className='text-tertiary text-sg'>Technology: {projects[selectedItemIndex].technologies}</p>

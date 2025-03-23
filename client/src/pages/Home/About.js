@@ -3,13 +3,14 @@ import SectionTitle from "../../components/SectionTitle";
 
 function About() {
     const skills = [
-        "Java",
+        "Angular",
         "Javascript",
         "React",
-        "Express",
         "MongoDB",
         "Python",
-        "Kotlin",
+        "Java",
+        "MySQL",
+        "Git",
     ]
     return (
         <section id="About">
@@ -21,15 +22,10 @@ function About() {
                 </div>
                 <div className="flex flex-col gap-5 w-1/2 my-24 text-xl sm:w-full sm:my-5">
                     <p className="text-white">
-                        Hello! I am a software developer and back-end developer from
-                        India. I am dedicated to the quest of developing solutions that
-                        leverage on best practice technologies to deliver over the top user
-                        experience.
+                    Hello! I am a software developer from India with a strong focus on frontend development. While I specialize in crafting seamless and interactive user interfaces, I also have experience in backend development. I am dedicated to building solutions that leverage best-practice technologies to deliver exceptional user experiences.
                     </p>
                     <p className="text-white">
-                        I enjoy video and VR games, and anime. My interest in Java and back-end development
-                        started back in 2022 when I came across how VR games are developed. Since then I
-                        focused my time on learning java, javascript and playing games.
+                    I have a strong expertise in frontend development, with a keen interest in creating seamless and user-friendly interfaces. I completed a full-stack development course at Jspiders Academy, where I gained proficiency in SQL, Web Technologies, and Core Java, covering all OOP concepts. Beyond tech, I enjoy playing badminton and listening to music
                     </p>
                 </div>
             </div>

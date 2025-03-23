@@ -9,7 +9,7 @@ function Footer() {
                     Designed & Developed by
                 </h1>
                 <h className="text-tertiary">
-                    <span>Pramod Krishnaa</span>
+                    <span>Ajay Arvinth A</span>
                 </h>
             </div>
         </div>
